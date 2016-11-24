@@ -30,4 +30,6 @@ public class LoginActvity extends AppCompatActivity {
 
         //Toast.makeText(getApplicationContext(), tbxEmail.getText() + " " + tbxPassword.getText(), Toast.LENGTH_LONG).show();
     }
+
+
 }

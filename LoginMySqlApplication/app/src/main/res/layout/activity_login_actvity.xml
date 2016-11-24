@@ -18,12 +18,14 @@
         android:hint="@string/hintEmail"
         android:inputType="textEmailAddress"
         android:singleLine="false"
+        android:text="psi@rpn.ch"
         android:selectAllOnFocus="true" />
     <EditText
         android:id="@+id/tbxPassword"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/hintPassword"
+        android:text="pass"
         android:inputType="textPassword"/>
     <Button
         android:layout_width="match_parent"
